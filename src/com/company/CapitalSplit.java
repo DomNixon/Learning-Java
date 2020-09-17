@@ -1,5 +1,6 @@
 package com.company;
 
+//TODO: Relate into main...?
 public class CapitalSplit
 {
     public static String capSpace(String txt)
